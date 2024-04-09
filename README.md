@@ -14,5 +14,8 @@ This project was completed as part of the "Data Visualization Techniques" course
 
 ### Project Structure:
 - **kody/**: folder containing R scripts used for data processing and chart generation
-- **Okrojek_Mokwa_Kwiatkowska/**: folder containing the poster in PDF format
+- **Okrojek_Mokwa_Kwiatkowska.pdf**: poster in PDF format
+- **Poster.png**: poster in PNG format
 - **README.md**: this README file
+
+![Poster](Poster.png)
