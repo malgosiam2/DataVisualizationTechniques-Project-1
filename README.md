@@ -19,4 +19,4 @@ This project was completed as part of the "Data Visualization Techniques" course
 - **README.md**: this README file
 
 ![Poster](Poster.png)
-<img src="images/Poster.png" alt="Poster" width="400" height="300">
+<img src="images/Poster.png" alt="Poster" width="300">
